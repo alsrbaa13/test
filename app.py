@@ -1,5 +1,5 @@
 import numpy
 
 
-for i in range(10):
+while(1):
     print("hello")
